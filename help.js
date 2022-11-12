@@ -396,34 +396,7 @@ return`━━━❲ 𝙂𝙐𝙍𝘽𝙊𝙏-𝙈𝘿 ❳━━━
 ┃▢ ${prefix}wallpaperprogamer
 ┃▢ ${prefix}wallpaperteknologi
 ┃▢ ${prefix}wallpapercyber
-┣━━━━━━━━━━━━━━
-┣━❲ 𝘼𝙉𝙄𝙈𝙀 𝙈𝙀𝙉𝙐 ❳
-┃▢ ${prefix}cry
-┃▢ ${prefix}hug
-┃▢ ${prefix}pat
-┃▢ ${prefix}bully
-┃▢ ${prefix}lick
-┃▢ ${prefix}kiss
-┃▢ ${prefix}awoo
-┃▢ ${prefix}waifu
-┃▢ ${prefix}shinobu
-┃▢ ${prefix}cuddle
-┃▢ ${prefix}megumin
-┃▢ ${prefix}slap
-┃▢ ${prefix}neko
-┃▢ ${prefix}wink
-┃▢ ${prefix}dance
-┃▢ ${prefix}poke
-┃▢ ${prefix}glomp
-┃▢ ${prefix}bite
-┃▢ ${prefix}nom
-┃▢ ${prefix}handhold
-┃▢ ${prefix}highfive
-┃▢ ${prefix}wave
-┃▢ ${prefix}smug
-┃▢ ${prefix}smile
-┃▢ ${prefix}bonk
-┣━━━━━━━━━━━━━━
+┣━━━━━━━━━━━━━━|
 ┣━❲ 𝘾𝙀𝙍𝙋𝙀𝙉 𝙈𝙀𝙉𝙐 ❳
 ┃▢ ${prefix}cerpen-sejarah
 ┃▢ ${prefix}cerpen-sedih
@@ -724,12 +697,12 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 085789004732
+Number: 08
 A/N: LEXXY STORE
 
 *Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+Number: 089526306636
+A/N: OFFICIAL
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,8 +713,8 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
- • *Umur:* 18 tahun
+ • *Nama:* azra
+ • *Umur:* 13 tahun
  • *Hoby:* Turu/Game
  • *Askot:* Palembang
  • *Konten:* Creator
@@ -749,8 +722,8 @@ return`──「 *INFO OWNER* 」──
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
+ • *Whatsapp:* 08
+ • *Youtube:* 
  • *Github:* Lexxy24
  `
 }
